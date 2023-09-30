@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to sports and how athlete performance, fan base, previous accolades, etc. relate to their salaries / contracts. 
+I am interested in exploring data related to sports and how athlete performance, fan base, previous accolades, etc. relate to their salaries / contracts.
