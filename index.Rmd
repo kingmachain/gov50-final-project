@@ -7,8 +7,9 @@ output:
     self_contained: false
 ---
 
-
-
 ## Project thoughts
 
 I am interested in exploring data related to sports and how athlete performance, fan base, previous accolades, etc. relate to their salaries / contracts. I believe that a players performance is only part of the equation when it comes to salaries, and that the ability to sell tickets may be an even more important factor. I want to find a way to make my project more impactful and make more meaningful conclusions, and I am brainstorming on how to take my statistical analysis deeper.
+
+##Proposal
+
